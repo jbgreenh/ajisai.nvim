@@ -2,7 +2,7 @@
 
 a colorscheme desined for transparent terminals inspired by hydrangeas in the rain
 
-## configuration
+## installation and configuration
 
 ```lua
 vim.pack.add({ 'https://github.com/jbgreenh/ajisai.nvim' })
@@ -13,6 +13,8 @@ require("ajisai").setup({
     italics = true,            -- enable italic text
     float_background = false,  -- distinct background for floating windows
 })
+
+vim.cmd.colorscheme("ajisai")
 ```
 
 ## colors
