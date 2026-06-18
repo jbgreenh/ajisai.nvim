@@ -19,7 +19,7 @@ return {
 
 	-- constants
 	string = "#318b68",
-	constant = "#7a69bf",
+	constant = "#8d7fd6",
 
 	-- diagnostics
 	error = "#eeb3b5",
