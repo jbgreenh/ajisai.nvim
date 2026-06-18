@@ -190,7 +190,7 @@ return function(t, config)
 		NoiceVirtualText = { fg = t.virtual_text, italic = italic },
 
 		-- blink.cmp
-		BlinkCmpMenu = { fg = t.fg, bg = t.bg },
+		BlinkCmpMenu = { fg = t.fg, bg = t.float_bg },
 		BlinkCmpMenuBorder = { fg = t.fg, bg = t.bg },
 		BlinkCmpLabel = { fg = t.fg },
 		BlinkCmpLabelDeprecated = { fg = t.keyword, strikethrough = true },
@@ -269,7 +269,7 @@ return function(t, config)
 		MiniFilesDirectory = { fg = t.type, bold = true },
 		MiniFilesFile = { fg = t.fg },
 		MiniFilesCursorLine = { bg = t.selection },
-		MiniPickNormal = { fg = t.fg, bg = t.bg },
+		MiniPickNormal = { fg = t.fg, bg = t.float_bg },
 		MiniPickBorder = { fg = t.fg, bg = t.bg },
 		MiniPickHeader = { fg = t.keyword, bold = true },
 		MiniPickMatchCurrent = { fg = t.fg, bg = t.selection },
