@@ -12,13 +12,13 @@ return {
 	float_bg = "#344345",
 
 	-- syntax
-	comment = "#318b68",
+	comment = "#ffedec",
 	keyword = "#a5c0dc",
 	func = "#d5c9f4",
 	type = "#3689bb",
 
 	-- constants
-	string = "#287653",
+	string = "#318b68",
 	constant = "#7a69bf",
 
 	-- diagnostics
