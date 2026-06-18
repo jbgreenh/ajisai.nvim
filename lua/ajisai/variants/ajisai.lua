@@ -12,7 +12,7 @@ return {
 	float_bg = "#344345",
 
 	-- syntax
-	comment = "#ffedec",
+	comment = "#bbecb7",
 	keyword = "#a5c0dc",
 	func = "#d5c9f4",
 	type = "#3689bb",
