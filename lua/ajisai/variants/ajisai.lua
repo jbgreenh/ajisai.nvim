@@ -1,39 +1,39 @@
 return {
 	-- ui
-	bg = "#0e0e16",
-	fg = "#d8d8d8",
-	fg_dim = "#707c8c",
-	fg_inverse = "#0e0e16",
-	bg_alt = "#1a1a24",
-	selection = "#33415c",
-	search = "#33415c",
-	search_current = "#5fa6a6",
-	search_inc = "#d1b77a",
-	float_bg = "#252532",
+	bg = "#3a4344",
+	fg = "#fbfaf1",
+	fg_dim = "#c7d3d3",
+	fg_inverse = "#04050E",
+	bg_alt = "#344345",
+	selection = "#2f6282",
+	search = "#2f6282",
+	search_current = "#3689bb",
+	search_inc = "#d5d1c0",
+	float_bg = "#344345",
 
 	-- syntax
-	comment = "#8ac490",
-	keyword = "#858d95",
-	func = "#b0c0e0",
-	type = "#70a8a8",
+	comment = "#318b68",
+	keyword = "#a5c0dc",
+	func = "#d5c9f4",
+	type = "#3689bb",
 
 	-- constants
-	string = "#d58ca6",
-	constant = "#ef8a90",
+	string = "#287653",
+	constant = "#7a69bf",
 
 	-- diagnostics
-	error = "#ef8a90",
-	warn = "#d1b77a",
-	hint = "#5fa6a6",
-	info = "#d8d8d8",
+	error = "#eeb3b5",
+	warn = "#d5d1c0",
+	hint = "#3689bb",
+	info = "#3cb59a",
 
 	-- virtual text
-	virtual_text = "#858d95",
+	virtual_text = "#c7d3d3",
 
 	-- diff/git
-	added = "#8ac490",
-	changed = "#b0c0e0",
-	deleted = "#ef8a90",
-	selection_added = "#1a2e1f",
-	selection_deleted = "#3a2020",
+	added = "#bbecb7",
+	changed = "#95a9d9",
+	deleted = "#eeb3b5",
+	selection_added = "#104d2d",
+	selection_deleted = "#5d2b2a",
 }
