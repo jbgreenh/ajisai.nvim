@@ -1,6 +1,6 @@
 return {
 	-- ui
-	bg = "#3a4344",
+	bg = "#030b08",
 	fg = "#fbfaf1",
 	fg_dim = "#c7d3d3",
 	fg_inverse = "#04050E",
